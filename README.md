@@ -23,6 +23,7 @@ Cubyz can easily be forked or modded to create a new game with 3D sandbox aspect
 - This game is under GPLv3 license for more details check the [LICENSE](https://github.com/PixelGuys/Cubz/blob/master/LICENSE) file.
 - You can receive announcements about Cubyz on our [discord](https://discord.gg/XtqCRRG) server.
 
+
 # Run Cubyz
 ## Run latest release:
 1. Install [java 14 or higher](https://www.oracle.com/java/technologies/javase-downloads.html).
